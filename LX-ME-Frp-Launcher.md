@@ -6,7 +6,7 @@
 
 [蓝奏云](https://wwms.lanzouo.com/iGZtL37rk67g)
 
-LX-ME-Frp-Launcher 是一款专为 **ME-Frp** 打造的第三方 Windows 客户端，由开发者 **灵弦MuaMua** 采用易语言（E-language）结合 Exui 框架开发而成。该项目旨在为用户提供一个界面美观、功能完备且操作简便的内网穿透管理工具，使用户能够在原生 Windows 环境下高效地管理与启动隧道实例。
+**LX-ME-Frp-Launcher 是一款专为 ME-Frp 打造的第三方 Windows 客户端，由开发者 灵弦MuaMua 采用易语言（E-language）结合 Exui 框架开发而成。该项目旨在为用户提供一个界面美观、功能完备且操作简便的内网穿透管理工具，使用户能够在原生 Windows 环境下高效地管理与启动隧道实例。**
 
 ## 项目核心特性与系统要求
 
